@@ -19,8 +19,9 @@ html, body {
     width: 400px;
 }
 
-h2 {
+h1 {
     text-align: center;
+    font-weight: 600;
 }
 
 .form {
